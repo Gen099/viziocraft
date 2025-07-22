@@ -1,0 +1,201 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "services": "サービス",
+    "learning": "ラーニング",
+    "about": "会社概要",
+    "contact": "お問い合わせ",
+    "contactNow": "今すぐお問い合わせ"
+  },
+  "hero": {
+    "title": "VizioCraft Design",
+    "tagline": "デジタルイノベーションの推進",
+    "industry": "AI & メディアテクノロジー",
+    "description": "映画制作、インテリジェントエージェント、エンドツーエンド自動化のための最先端AIソリューションを提供し、最新の生成AIでノーコード・ローコードワークフローを強化します。",
+    "stats": {
+      "projectsCompleted": "完了プロジェクト",
+      "clientsServed": "サービス提供クライアント",
+      "yearsExperience": "年の経験",
+      "teamMembers": "チームメンバー"
+    },
+    "cta": {
+      "exploreServices": "サービスを探索",
+      "aboutUs": "会社概要"
+    }
+  },
+  "services": {
+    "title": "私たちのサービス",
+    "subtitle": "AI自動化からプロフェッショナルメディア制作まで、包括的な技術ソリューションを提供します",
+    "aiSolutions": {
+      "title": "AIソリューション & 自動化",
+      "description": "チャットボットから自動管理システムまで、インテリジェントなAIソリューションでビジネスプロセスを自動化します。",
+      "features": [
+        "インテリジェントエージェント",
+        "ビジネスプロセス自動化",
+        "ノーコード/ローコードソリューション",
+        "AI駆動分析"
+      ]
+    },
+    "videoProduction": {
+      "title": "ビデオ制作 & アニメーション",
+      "description": "コンセプトから完成品まで、先進的なAI技術を使用したプロフェッショナルビデオ制作。",
+      "features": [
+        "AI強化ビデオ制作",
+        "3Dアニメーション",
+        "モーショングラフィックス",
+        "ポストプロダクションサービス"
+      ]
+    },
+    "visualEffects": {
+      "title": "ビジュアルエフェクト & デザイン",
+      "description": "すべてのメディアプロジェクトのための印象的なビジュアルエフェクトと創造的なデザインを作成します。",
+      "features": [
+        "高度なVFX",
+        "UI/UXデザイン",
+        "ブランドアイデンティティ",
+        "デジタルアート制作"
+      ]
+    },
+    "mediaProduction": {
+      "title": "メディア制作",
+      "description": "コンセプトから展開まで、あらゆるプロジェクト規模に適した包括的なメディア制作サービス。",
+      "features": [
+        "コンテンツ戦略",
+        "写真撮影 & ビデオ撮影",
+        "ソーシャルメディアコンテンツ",
+        "マーケティングキャンペーン"
+      ]
+    },
+    "saasSolutions": {
+      "title": "SaaSソリューション",
+      "description": "現代企業に最適化されたサービスとしてのソフトウェアソリューションを開発・展開します。",
+      "features": [
+        "カスタムソフトウェア開発",
+        "クラウドソリューション",
+        "API統合",
+        "スケーラブルアーキテクチャ"
+      ]
+    },
+    "learnMore": "詳細を見る",
+    "cta": {
+      "title": "アイデアを現実に変える準備はできていますか？",
+      "description": "プロジェクトについて話し合い、成功をサポートする方法を発見するために、お気軽にお問い合わせください。",
+      "button": "今すぐプロジェクトを開始"
+    }
+  },
+  "about": {
+    "title": "会社概要",
+    "subtitle": "最先端技術ソリューションを支える会社と人々について詳しく学びましょう",
+    "companyName": "VizioCraft Design",
+    "companyDescription": "映画制作、インテリジェントエージェント、エンドツーエンド自動化のための最先端AIソリューションを提供し、最新の生成AIでノーコード・ローコードワークフローを強化します。",
+    "stats": {
+      "founded": "設立年",
+      "headquarters": "本社",
+      "members": "メンバー",
+      "projects": "プロジェクト"
+    },
+    "mission": {
+      "title": "ミッション",
+      "description": "先進的なAIソリューションと高品質なメディアサービスを創造し、企業や個人が技術を通じて創造的な夢を実現できるよう支援します。"
+    },
+    "vision": {
+      "title": "ビジョン",
+      "description": "AIとメディア自動化分野でベトナムの主要技術パートナーとなり、顧客とコミュニティに持続可能な価値をもたらします。"
+    },
+    "founder": {
+      "title": "創設者紹介",
+      "name": "Son Pham",
+      "position": "創設者 & CEO",
+      "description": "技術とメディア分野で5年以上の経験を持つデジタルクリエイター兼ビジュアルストーリーテリング専門家。VizioCraft Designを率いて、顧客に最先端のAIソリューションを提供しています。",
+      "background": "橋梁建設エンジニアからビジネス分析まで、Sonは技術と創造性を組み合わせる独特の視点をもたらします。"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "アイデアを現実に変える準備はできていますか？今日お問い合わせください！",
+    "info": {
+      "title": "連絡先情報",
+      "description": "私たちはいつでもお客様の声に耳を傾け、サポートする準備ができています。最も便利なチャンネルからお気軽にお問い合わせください。",
+      "phone": "電話番号",
+      "address": "住所",
+      "website": "ウェブサイト",
+      "hours": "営業時間",
+      "schedule": {
+        "weekdays": "月曜日 - 金曜日: 9:00 - 18:00",
+        "saturday": "土曜日: 9:00 - 12:00",
+        "sunday": "日曜日: 休業"
+      }
+    },
+    "form": {
+      "title": "メッセージを送信",
+      "name": "お名前",
+      "email": "メールアドレス",
+      "company": "会社名",
+      "service": "関心のあるサービス",
+      "message": "メッセージ",
+      "required": "*",
+      "submit": "メッセージを送信"
+    },
+    "whyChoose": {
+      "title": "なぜ私たちを選ぶのか？",
+      "quickResponse": {
+        "title": "迅速な対応",
+        "description": "24時間以内に返信し、いつでもサポートする準備ができています"
+      },
+      "professionalConsulting": {
+        "title": "プロフェッショナルコンサルティング",
+        "description": "経験豊富で顧客に献身的な専門家チーム"
+      },
+      "support247": {
+        "title": "24/7サポート",
+        "description": "週末や祝日も含む顧客サポートサービス"
+      }
+    }
+  },
+  "learning": {
+    "title": "ラーニングセンター",
+    "subtitle": "包括的なチュートリアルとコースでスキルを拡張しましょう。業界専門家から学び、最新技術をマスターしてください。",
+    "tabs": {
+      "tutorials": "チュートリアル",
+      "courses": "コース"
+    },
+    "categories": {
+      "all": "すべてのカテゴリ",
+      "aiAutomation": "AI & 自動化",
+      "videoProduction": "ビデオ制作",
+      "animationVfx": "アニメーション & VFX",
+      "webDevelopment": "ウェブ開発",
+      "marketing": "マーケティング"
+    },
+    "difficulty": {
+      "beginner": "初級",
+      "intermediate": "中級",
+      "advanced": "上級"
+    },
+    "actions": {
+      "watchNow": "今すぐ視聴",
+      "enrollNow": "今すぐ登録"
+    },
+    "cta": {
+      "title": "独自のコンテンツを作成したいですか？",
+      "description": "コンテンツクリエイタープログラムに参加して、コミュニティと専門知識を共有しましょう。",
+      "instructor": "インストラクターになる",
+      "submit": "チュートリアルを提出"
+    }
+  },
+  "footer": {
+    "description": "映画制作、インテリジェントエージェント、エンドツーエンド自動化のための最先端AIソリューションを提供",
+    "rights": "すべての権利を保有しています。",
+    "email": "contact@viziocraft.design"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "backToHome": "ホームに戻る",
+    "readMore": "続きを読む",
+    "viewAll": "すべて表示",
+    "getStarted": "始める",
+    "contactUs": "お問い合わせ"
+  }
+}
+

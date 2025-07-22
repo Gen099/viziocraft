@@ -1,0 +1,239 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "services": "Dịch vụ",
+    "learning": "Học tập",
+    "about": "Về chúng tôi",
+    "contact": "Liên hệ",
+    "contactNow": "Liên hệ ngay"
+  },
+  "hero": {
+    "title": "VizioCraft Design",
+    "tagline": "AI & Media Technology Solutions",
+    "industry": "Artificial Intelligence • Media Production • Automation",
+    "description": "Chúng tôi cung cấp giải pháp AI tiên tiến, sản xuất media chuyên nghiệp và automation thông minh. Đối tác công nghệ đáng tin cậy giúp doanh nghiệp chuyển đổi số và tối ưu hóa quy trình kinh doanh.",
+    "stats": {
+      "projectsCompleted": "Dự án hoàn thành",
+      "clientsServed": "Khách hàng hài lòng",
+      "yearsExperience": "Năm kinh nghiệm",
+      "teamMembers": "Hỗ trợ khách hàng"
+    },
+    "cta": {
+      "exploreServices": "Khám phá dịch vụ",
+      "aboutUs": "Về chúng tôi"
+    }
+  },
+  "services": {
+    "title": "Dịch vụ của chúng tôi",
+    "subtitle": "Chúng tôi cung cấp giải pháp toàn diện từ AI, sản xuất video đến phát triển web và marketing",
+    "aiSolutions": {
+      "title": "AI Solutions",
+      "description": "Intelligent Agents, Business Process Automation, No-code/Low-code Solutions",
+      "features": [
+        "Intelligent Agents",
+        "Process Automation",
+        "AI Analytics",
+        "No-code Solutions"
+      ]
+    },
+    "videoProduction": {
+      "title": "Video Production",
+      "description": "AI-enhanced Video Creation, 3D Animation, Motion Graphics, Post-production Services",
+      "features": [
+        "AI Video Creation",
+        "3D Animation",
+        "Motion Graphics",
+        "Post-production"
+      ]
+    },
+    "webDevelopment": {
+      "title": "Web Development",
+      "description": "Custom Web Applications, E-commerce Solutions, Progressive Web Apps",
+      "features": [
+        "Custom Web Apps",
+        "E-commerce",
+        "Progressive Web Apps",
+        "API Development"
+      ]
+    },
+    "digitalMarketing": {
+      "title": "Digital Marketing",
+      "description": "Brand Strategy, Content Creation, Social Media Management, SEO Optimization",
+      "features": [
+        "Brand Strategy",
+        "Content Creation",
+        "Social Media",
+        "SEO Optimization"
+      ]
+    },
+    "learnMore": "Tìm hiểu thêm",
+    "cta": {
+      "title": "Bạn cần tư vấn dịch vụ phù hợp cho dự án của mình?",
+      "description": "Liên hệ tư vấn miễn phí",
+      "button": "Liên hệ tư vấn miễn phí"
+    }
+  },
+  "about": {
+    "title": "Về VizioCraft Design",
+    "subtitle": "Chúng tôi là đội ngũ chuyên gia đam mê công nghệ, cam kết mang đến những giải pháp AI và media sáng tạo nhất",
+    "companyName": "VizioCraft Design",
+    "companyDescription": "VizioCraft Design được thành lập với tầm nhìn trở thành đối tác công nghệ đáng tin cậy cho các doanh nghiệp muốn chuyển đổi số và áp dụng AI vào hoạt động kinh doanh.",
+    "story": {
+      "title": "Câu chuyện của chúng tôi",
+      "description": "VizioCraft Design được thành lập với tầm nhìn trở thành đối tác công nghệ đáng tin cậy cho các doanh nghiệp muốn chuyển đổi số và áp dụng AI vào hoạt động kinh doanh. Với đội ngũ chuyên gia giàu kinh nghiệm trong lĩnh vực AI, sản xuất media và phát triển web, chúng tôi đã giúp hàng trăm doanh nghiệp tối ưu hóa quy trình và tăng hiệu quả hoạt động."
+    },
+    "stats": {
+      "founded": "100+",
+      "headquarters": "50+",
+      "members": "5+",
+      "projects": "24/7"
+    },
+    "mission": {
+      "title": "Đổi mới sáng tạo",
+      "description": "Chúng tôi luôn tiên phong trong việc áp dụng công nghệ mới nhất để tạo ra những giải pháp đột phá."
+    },
+    "vision": {
+      "title": "Chất lượng cao",
+      "description": "Cam kết mang đến sản phẩm và dịch vụ chất lượng cao nhất, đáp ứng mọi yêu cầu của khách hàng."
+    },
+    "values": {
+      "partnership": "Hợp tác bền vững",
+      "excellence": "Xuất sắc"
+    }
+  },
+  "contact": {
+    "title": "Liên hệ với chúng tôi",
+    "subtitle": "Sẵn sàng bắt đầu dự án của bạn? Hãy liên hệ với chúng tôi để được tư vấn miễn phí",
+    "info": {
+      "title": "Gửi tin nhắn cho chúng tôi",
+      "description": "Thông tin liên hệ",
+      "phone": "+848 68 68 99 12",
+      "address": "Hà Nội, Cầu Giấy, Việt Nam",
+      "website": "Website",
+      "hours": "Giờ làm việc",
+      "schedule": {
+        "weekdays": "Thứ 2 - Thứ 6:",
+        "saturday": "Thứ 7:",
+        "sunday": "Chủ nhật:",
+        "weekdaysTime": "8:00 - 18:00",
+        "saturdayTime": "9:00 - 17:00",
+        "sundayTime": "Nghỉ"
+      }
+    },
+    "form": {
+      "title": "Gửi tin nhắn cho chúng tôi",
+      "name": "Họ và tên",
+      "email": "Email",
+      "company": "Công ty / Tổ chức",
+      "service": "Dịch vụ quan tâm",
+      "message": "Tin nhắn",
+      "required": "*",
+      "submit": "Gửi tin nhắn"
+    }
+  },
+  "learning": {
+    "title": "Learning Center",
+    "subtitle": "Mở rộng kỹ năng của bạn với các tutorial và khóa học toàn diện",
+    "tabs": {
+      "tutorials": "Tutorials",
+      "courses": "Courses"
+    },
+    "categories": {
+      "all": "Tất cả danh mục",
+      "aiAutomation": "AI & Automation",
+      "videoProduction": "Video Production",
+      "animationVfx": "Animation & VFX",
+      "webDevelopment": "Web Development",
+      "marketing": "Marketing"
+    },
+    "difficulty": {
+      "beginner": "Cơ bản",
+      "intermediate": "Trung cấp",
+      "advanced": "Nâng cao"
+    },
+    "actions": {
+      "watchNow": "Xem ngay",
+      "enrollNow": "Đăng ký ngay"
+    }
+  },
+  "footer": {
+    "description": "© 2024 VizioCraft Design. Empowering Digital Innovation with AI & Media Technology.",
+    "rights": "Tất cả quyền được bảo lưu.",
+    "email": "contact@viziocraft.design"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "backToHome": "Về trang chủ",
+    "readMore": "Đọc thêm",
+    "viewAll": "Xem tất cả",
+    "getStarted": "Bắt đầu",
+    "contactUs": "Liên hệ"
+  },
+  "assistant": {
+    "name": "Hoàng Anh",
+    "role": "Trợ lý ảo",
+    "welcome": "Xin chào! Tôi là Hoàng Anh, trợ lý ảo của VizioCraft Design. Tôi có thể giúp bạn tìm hiểu về dịch vụ của chúng tôi và trả lời các câu hỏi. Bạn cần hỗ trợ gì không?",
+    "placeholder": "Nhập tin nhắn của bạn...",
+    "suggestedQuestions": "Câu hỏi gợi ý:"
+  }
+}
+// vi.json  ➕ thêm
+{
+  "language": { "vi": "Tiếng Việt", "en": "English", "ja": "日本語" },
+
+  "about": {
+    "values": {
+      "innovation": {
+        "title": "Đổi mới sáng tạo",
+        "desc": "Chúng tôi luôn tiên phong áp dụng công nghệ mới nhất để tạo ra giải pháp đột phá."
+      },
+      "quality": {
+        "title": "Chất lượng cao",
+        "desc": "Cam kết mang đến sản phẩm, dịch vụ chất lượng cao nhất, đáp ứng mọi yêu cầu của khách hàng."
+      },
+      "partnership": {
+        "title": "Hợp tác bền vững",
+        "desc": "Xây dựng quan hệ đối tác lâu dài dựa trên sự tin tưởng và giá trị đôi bên."
+      }
+    }
+  },
+
+  "services": {
+    "cta": {
+      "learnMore": "Tìm hiểu thêm →",
+      "contact": "Liên hệ tư vấn"
+    }
+  },
+
+  "contact": {
+    "form": {
+      "title": "Gửi tin nhắn cho chúng tôi",
+      "success": "Tin nhắn đã được gửi thành công! Chúng tôi sẽ phản hồi sớm nhất.",
+      "name": "Họ và tên",
+      "namePlaceholder": "Nhập họ và tên",
+      "email": "Email",
+      "company": "Công ty / Tổ chức",
+      "companyPlaceholder": "Tên công ty hoặc tổ chức",
+      "message": "Tin nhắn",
+      "messagePlaceholder": "Mô tả dự án hoặc yêu cầu của bạn...",
+      "submit": "Gửi tin nhắn",
+      "sending": "Đang gửi..."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Điện thoại",
+      "address": "Địa chỉ",
+      "addressValue": "Hà Nội, Cầu Giấy, Việt Nam"
+    }
+  },
+
+  "notFound": {
+    "service": {
+      "title": "Dịch vụ không tồn tại",
+      "backHome": "Về trang chủ",
+      "backServices": "Quay lại danh sách dịch vụ"
+    }
+  }
+}
+

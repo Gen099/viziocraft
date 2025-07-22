@@ -1,0 +1,239 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "learning": "Learning",
+    "about": "About Us",
+    "contact": "Contact",
+    "contactNow": "Contact Now"
+  },
+  "hero": {
+    "title": "VizioCraft Design",
+    "tagline": "AI & Media Technology Solutions",
+    "industry": "Artificial Intelligence • Media Production • Automation",
+    "description": "We provide advanced AI solutions, professional media production and intelligent automation. A trusted technology partner helping businesses digitally transform and optimize business processes.",
+    "stats": {
+      "projectsCompleted": "Projects Completed",
+      "clientsServed": "Satisfied Clients",
+      "yearsExperience": "Years Experience",
+      "teamMembers": "24/7 Support"
+    },
+    "cta": {
+      "exploreServices": "Explore Services",
+      "aboutUs": "About Us"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We provide comprehensive solutions from AI, video production to web development and marketing",
+    "aiSolutions": {
+      "title": "AI Solutions",
+      "description": "Intelligent Agents, Business Process Automation, No-code/Low-code Solutions",
+      "features": [
+        "Intelligent Agents",
+        "Process Automation",
+        "AI Analytics",
+        "No-code Solutions"
+      ]
+    },
+    "videoProduction": {
+      "title": "Video Production",
+      "description": "AI-enhanced Video Creation, 3D Animation, Motion Graphics, Post-production Services",
+      "features": [
+        "AI Video Creation",
+        "3D Animation",
+        "Motion Graphics",
+        "Post-production"
+      ]
+    },
+    "webDevelopment": {
+      "title": "Web Development",
+      "description": "Custom Web Applications, E-commerce Solutions, Progressive Web Apps",
+      "features": [
+        "Custom Web Apps",
+        "E-commerce",
+        "Progressive Web Apps",
+        "API Development"
+      ]
+    },
+    "digitalMarketing": {
+      "title": "Digital Marketing",
+      "description": "Brand Strategy, Content Creation, Social Media Management, SEO Optimization",
+      "features": [
+        "Brand Strategy",
+        "Content Creation",
+        "Social Media",
+        "SEO Optimization"
+      ]
+    },
+    "learnMore": "Learn More",
+    "cta": {
+      "title": "Need consultation on suitable services for your project?",
+      "description": "Free consultation contact",
+      "button": "Free consultation contact"
+    }
+  },
+  "about": {
+    "title": "About VizioCraft Design",
+    "subtitle": "We are a team of technology-passionate experts, committed to bringing the most creative AI and media solutions",
+    "companyName": "VizioCraft Design",
+    "companyDescription": "VizioCraft Design was founded with the vision of becoming a trusted technology partner for businesses wanting to digitally transform and apply AI to business operations.",
+    "story": {
+      "title": "Our Story",
+      "description": "VizioCraft Design was founded with the vision of becoming a trusted technology partner for businesses wanting to digitally transform and apply AI to business operations. With a team of experienced experts in AI, media production and web development, we have helped hundreds of businesses optimize processes and increase operational efficiency."
+    },
+    "stats": {
+      "founded": "100+",
+      "headquarters": "50+",
+      "members": "5+",
+      "projects": "24/7"
+    },
+    "mission": {
+      "title": "Innovation",
+      "description": "We always pioneer in applying the latest technology to create breakthrough solutions."
+    },
+    "vision": {
+      "title": "High Quality",
+      "description": "Committed to bringing the highest quality products and services, meeting all customer requirements."
+    },
+    "values": {
+      "partnership": "Sustainable Partnership",
+      "excellence": "Excellence"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to start your project? Contact us for free consultation",
+    "info": {
+      "title": "Send us a message",
+      "description": "Contact Information",
+      "phone": "+848 68 68 99 12",
+      "address": "Hanoi, Cau Giay, Vietnam",
+      "website": "Website",
+      "hours": "Working Hours",
+      "schedule": {
+        "weekdays": "Monday - Friday:",
+        "saturday": "Saturday:",
+        "sunday": "Sunday:",
+        "weekdaysTime": "8:00 - 18:00",
+        "saturdayTime": "9:00 - 17:00",
+        "sundayTime": "Closed"
+      }
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Full Name",
+      "email": "Email",
+      "company": "Company / Organization",
+      "service": "Service of Interest",
+      "message": "Message",
+      "required": "*",
+      "submit": "Send Message"
+    }
+  },
+  "learning": {
+    "title": "Learning Center",
+    "subtitle": "Expand your skills with comprehensive tutorials and courses",
+    "tabs": {
+      "tutorials": "Tutorials",
+      "courses": "Courses"
+    },
+    "categories": {
+      "all": "All Categories",
+      "aiAutomation": "AI & Automation",
+      "videoProduction": "Video Production",
+      "animationVfx": "Animation & VFX",
+      "webDevelopment": "Web Development",
+      "marketing": "Marketing"
+    },
+    "difficulty": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "actions": {
+      "watchNow": "Watch Now",
+      "enrollNow": "Enroll Now"
+    }
+  },
+  "footer": {
+    "description": "© 2024 VizioCraft Design. Empowering Digital Innovation with AI & Media Technology.",
+    "rights": "All rights reserved.",
+    "email": "contact@viziocraft.design"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "backToHome": "Back to Home",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us"
+  },
+  "assistant": {
+    "name": "Hoang Anh",
+    "role": "Virtual Assistant",
+    "welcome": "Hello! I'm Hoang Anh, VizioCraft Design's virtual assistant. I can help you learn about our services and answer questions. How can I help you?",
+    "placeholder": "Type your message...",
+    "suggestedQuestions": "Suggested questions:"
+  }
+}
+// en.json  ➕ thêm
+{
+  "language": { "vi": "Vietnamese", "en": "English", "ja": "Japanese" },
+
+  "about": {
+    "values": {
+      "innovation": {
+        "title": "Innovation",
+        "desc": "We always pioneer in applying the latest technology to create breakthrough solutions."
+      },
+      "quality": {
+        "title": "High Quality",
+        "desc": "Committed to delivering top-quality products and services that meet every customer requirement."
+      },
+      "partnership": {
+        "title": "Sustainable Partnership",
+        "desc": "Building long-term partnerships based on trust and shared value."
+      }
+    }
+  },
+
+  "services": {
+    "cta": {
+      "learnMore": "Learn more →",
+      "contact": "Get a quote"
+    }
+  },
+
+  "contact": {
+    "form": {
+      "title": "Send us a message",
+      "success": "Message sent successfully! We will reply shortly.",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "company": "Company / Organization",
+      "companyPlaceholder": "Your company or organization",
+      "message": "Message",
+      "messagePlaceholder": "Describe your project or question...",
+      "submit": "Send Message",
+      "sending": "Sending..."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "addressValue": "Hanoi, Cau Giay, Vietnam"
+    }
+  },
+
+  "notFound": {
+    "service": {
+      "title": "Service not found",
+      "backHome": "Back to home",
+      "backServices": "Back to services"
+    }
+  }
+}
+
