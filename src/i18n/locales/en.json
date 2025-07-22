@@ -176,10 +176,7 @@
     "welcome": "Hello! I'm Hoang Anh, VizioCraft Design's virtual assistant. I can help you learn about our services and answer questions. How can I help you?",
     "placeholder": "Type your message...",
     "suggestedQuestions": "Suggested questions:"
-  }
-}
-// en.json  ➕ thêm
-{
+  },
   "language": { "vi": "Vietnamese", "en": "English", "ja": "Japanese" },
 
   "about": {
