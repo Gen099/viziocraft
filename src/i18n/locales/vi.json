@@ -176,10 +176,7 @@
     "welcome": "Xin chào! Tôi là Hoàng Anh, trợ lý ảo của VizioCraft Design. Tôi có thể giúp bạn tìm hiểu về dịch vụ của chúng tôi và trả lời các câu hỏi. Bạn cần hỗ trợ gì không?",
     "placeholder": "Nhập tin nhắn của bạn...",
     "suggestedQuestions": "Câu hỏi gợi ý:"
-  }
-}
-// vi.json  ➕ thêm
-{
+  },
   "language": { "vi": "Tiếng Việt", "en": "English", "ja": "日本語" },
 
   "about": {
